@@ -1,6 +1,5 @@
 
 <html lang="en">
-<main>
 
 <body>
 
@@ -29,9 +28,7 @@
 	I am watching this for the 3rd time, trying to understand how this large group of capitalist pigs could royally screw their families, descendants, neighbors, countrymen and the rest of the whole world with absolutely no compassion.
 </q>
 	</p>
-</main>
 <footer> <p>Prepared by: Arqam Usman Ali</p>
 		Date: 3/12/2021 </footer>
 	
 </body>
-</html>
