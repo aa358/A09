@@ -1,11 +1,7 @@
 
 <html lang="en">
 <main>
-<head>
-	<meta charset="utf-8">
-	<title>San Joaquin Valley Town Hall</title>
-	<link rel="shortcut icon" href="../images/favicon.ico">
-</head>
+
 <body>
 
 
